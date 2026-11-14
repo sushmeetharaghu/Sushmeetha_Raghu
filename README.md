@@ -1,2 +1,2 @@
-# Hello There :hand_with_fingers_splayed:
+# Hello There 🖐
 My Personal Repository
