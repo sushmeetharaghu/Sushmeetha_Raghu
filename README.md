@@ -53,6 +53,10 @@ I'm an **M.Tech graduate** and **Certified Data Analyst (Data Analytics + Genera
 ## 🏆 Achievements
 
 - Published **3 IEEE conference papers and 1 journal paper**.
+    1. https://ieeexplore.ieee.org/document/8538448
+    2. https://ieeexplore.ieee.org/document/8723936
+    3. https://ieeexplore.ieee.org/document/8554708
+    4. https://ijarbest.com/conference/spcl10/578
 - Awarded the **Amrita Academic Scholarship** for academic excellence across 3 M.Tech semesters.
 - **AMCAT:** 99th percentile in Computer Programming.
 
